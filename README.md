@@ -1,10 +1,8 @@
-OlympicsPoster
-
 # What?
 奥运海报工作流复刻（PAI ArtLab）
 
-# Demo
-![Demo]()
+# Preview
+![Demo](https://github.com/border1px/OlympicsPoster/blob/main/show.jpg)
 
 # Introduction
 🎨 为了向在赛场上的奥运健儿传递最真挚的鼓舞与喝彩，我们特此发起一场别开生面的“创意海报设计挑战”！
@@ -19,7 +17,7 @@ OlympicsPoster
 - signature：签名 
 
 # Inpaint Model
-https://huggingface.co/Acly/MAT
+[MAT](https://huggingface.co/Acly/MAT)
 
 # LoRA
-https://liblibai-online.vibrou.com/train/models/d7dd9ea7dbcc45759ba4f06b8de7d0bb/20240223-1708631710114-0020.safetensors?auth_key=1724598647-99840e87797b4436bbf3b02b875db3c2-0-c50d443dccbade129dd2328770a18d59&attname=sdxl-niji%20style_v1.0.safetensors
+[sdxl-niji style](https://www.liblib.art/modelinfo/85d903c7bee348169cc87b325e0187f2)
