@@ -1,10 +1,10 @@
 OlympicsPoster
 
 # What?
-PAI ArtLab（阿里）的奥运海报工作流复刻
+奥运海报工作流复刻（PAI ArtLab）
 
 # Demo
-![Demo]
+![Demo]()
 
 # Introduction
 🎨 为了向在赛场上的奥运健儿传递最真挚的鼓舞与喝彩，我们特此发起一场别开生面的“创意海报设计挑战”！
